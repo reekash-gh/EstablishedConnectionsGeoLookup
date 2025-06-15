@@ -79,7 +79,7 @@ TCP       192.168.1.100:53348  104.17.108.108:443  ESTABLISHED  4321  Google Chr
 
 ## 📬 Contact
 
-**Reekash **  
+Reekash  
 Cybersecurity & IT Support Professional  
 📍 Melbourne, Australia  
 
